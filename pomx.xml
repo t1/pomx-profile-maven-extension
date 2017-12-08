@@ -4,5 +4,5 @@
     <pom>com.github.t1:maven-extension:3.3.9-SNAPSHOT</pom>
     <description>POMX profile to build Maven Extensions</description>
 
-    <profile>com.github.t1:pomx-profile:1.0.0-SNAPSHOT</profile>
+    <profile>com.github.t1:pomx-profile-profile:1.0.0-SNAPSHOT</profile>
 </project>
